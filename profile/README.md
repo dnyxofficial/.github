@@ -46,7 +46,7 @@ We bring a wealth of expertise across the full web development spectrum, ensurin
 
 ## 🌍 How We Work
 
-At Dnyx, we follow a streamlined process designed to deliver the best results:
+At DNYX, we follow a streamlined process designed to deliver the best results:
 
 1. **Discovery**: Understanding your vision and goals.
 2. **Design**: Crafting intuitive and attractive user interfaces.
