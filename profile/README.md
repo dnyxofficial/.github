@@ -12,7 +12,7 @@ We bring a wealth of expertise across the full web development spectrum, ensurin
 
 ### Frontend Development
 
-- **React & Next.js**: Dynamic user interfaces and server-side rendering for fast and interactive applications.
+- **React.js & Next.js**: Dynamic user interfaces and server-side rendering for fast and interactive applications.
 - **Vite.js**: Lightning-fast development and build tool.
 - **HTML5 & CSS3**: Pixel-perfect designs with a focus on responsiveness.
 - **JavaScript & TypeScript**: Modern, efficient code that powers complex applications.
