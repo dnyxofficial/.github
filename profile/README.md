@@ -1,6 +1,6 @@
 # DNYX
 
-At Dnyx, we specialize in crafting cutting-edge web development solutions that help businesses shine in the digital world. Our passion is turning ideas into reality with sleek, scalable, and powerful web applications.
+At DNYX, we specialize in crafting cutting-edge web development solutions that help businesses shine in the digital world. Our passion is turning ideas into reality with sleek, scalable, and powerful web applications.
 
 ## 🌟 Our Mission
 
