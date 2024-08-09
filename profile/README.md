@@ -60,8 +60,8 @@ At DNYX, we follow a streamlined process designed to deliver the best results:
 We're always excited to collaborate and explore new opportunities! Get in touch:
 
 - 📧 **Email**: [contact@dnyx.com](mailto:contact@dnyx.com)
-- 💼 **LinkedIn**: [DNYX LinkedIn](#)
-- 🐦 **Twitter**: [DNYX Twitter](#)
+- 💼 **LinkedIn**: [DNYX LinkedIn](https://www.linkedin.com/company/dnyx/)
+- 🐦 **Twitter**: [DNYX Twitter](https://x.com/dnyxofficial)
 - 🌐 **Website**: [www.web.dnyx.in](http://www.dnyx.in)
 
 ## 📄 License
