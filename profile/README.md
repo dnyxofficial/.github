@@ -12,20 +12,23 @@ We bring a wealth of expertise across the full web development spectrum, ensurin
 
 ### Frontend Development
 
-- **React & Vue.js**: Dynamic user interfaces that engage and delight.
+- **React & Next.js**: Dynamic user interfaces and server-side rendering for fast and interactive applications.
+- **Vite.js**: Lightning-fast development and build tool.
 - **HTML5 & CSS3**: Pixel-perfect designs with a focus on responsiveness.
 - **JavaScript & TypeScript**: Modern, efficient code that powers complex applications.
+- **Tailwind CSS & Bootstrap**: Rapid UI development with utility-first and component-based frameworks.
+- **Material UI & Chakra UI**: Modern UI components for accessible and flexible design.
 
 ### Backend Development
 
 - **Node.js & Express**: Robust server-side logic for scalable applications.
-- **Python & Django**: Powering the backend with clean, maintainable code.
-- **Ruby on Rails**: Rapid development with a strong emphasis on convention.
+- **Prisma**: Powerful and intuitive ORM for working with databases.
 
 ### Database Management
 
 - **MongoDB & PostgreSQL**: Scalable and reliable data storage solutions.
 - **MySQL**: Trusted relational database management.
+- **Firebase & AWS**: Cloud-based databases and services for scalable and secure solutions.
 
 ### API & Integration
 
@@ -37,13 +40,9 @@ We bring a wealth of expertise across the full web development spectrum, ensurin
 - **Docker & Kubernetes**: Containerization and orchestration for scalable deployment.
 - **CI/CD**: Automated workflows for continuous integration and deployment.
 
-## 🎨 Featured Projects
+### App Development
 
-We take pride in the work we do. Here are a few highlights:
-
-- **Project A**: Revolutionizing the e-commerce experience with cutting-edge technology.
-- **Project B**: A comprehensive platform for managing large-scale events and conferences.
-- **Project C**: Innovating the healthcare sector with a powerful patient management system.
+- **React Native**: Cross-platform mobile app development with a focus on native performance.
 
 ## 🌍 How We Work
 
@@ -61,9 +60,9 @@ At Dnyx, we follow a streamlined process designed to deliver the best results:
 We're always excited to collaborate and explore new opportunities! Get in touch:
 
 - 📧 **Email**: [contact@dnyx.com](mailto:contact@dnyx.com)
-- 💼 **LinkedIn**: [Dnyx LinkedIn](#)
-- 🐦 **Twitter**: [@Dnyx](#)
-- 🌐 **Website**: [www.dnyx.com](http://www.dnyx.in)
+- 💼 **LinkedIn**: [DNYX LinkedIn](#)
+- 🐦 **Twitter**: [DNYX Twitter](#)
+- 🌐 **Website**: [www.web.dnyx.in](http://www.dnyx.in)
 
 ## 📄 License
 
